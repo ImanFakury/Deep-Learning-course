@@ -37,3 +37,4 @@ This repository contains implementations of fundamental machine learning algorit
 
 ### 📁 Project - Sports Video Analysis System
 **SportsMT Dataset Multi-Object Tracking**
+Using Yolo for detection and ByteTrack for tracking.
